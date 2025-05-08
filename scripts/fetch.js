@@ -6,9 +6,9 @@ import { formatHex, converter } from 'culori';
 const userColors = [];
 let colors = [];
 
-fs.readFileSync(path.normalize("src/userCreations.csv"), "utf8").split('\n').forEach(line => {
+fs.readFileSync(path.normalize("src/userCreations.csv"), "utf8").split('\n').forEach((line, i) => {
   const [name, hex, link] = line.split(',');
-  if (name && hex) {
+  if (name && hex && i !== 0) {
     userColors.push({
       name: name.trim(),
       hex: hex.trim(),
