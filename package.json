@@ -1,6 +1,6 @@
 {
   "name": "hindi-color-names",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A collection of hindi color names",
   "main": "colors.js",
   "type": "module",
