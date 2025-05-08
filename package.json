@@ -1,0 +1,32 @@
+{
+  "name": "hindi-color-names",
+  "version": "1.0.0",
+  "description": "A collection of hindi color names",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node scripts/fetch.js && node scripts/createimage.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meodai/hindi-color-names.git"
+  },
+  "keywords": [
+    "color",
+    "colors",
+    "dictionary",
+    "hindi",
+    "india"
+  ],
+  "author": "meodai@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meodai/hindi-color-names/issues"
+  },
+  "homepage": "https://github.com/meodai/hindi-color-names#readme",
+  "devDependencies": {
+    "culori": "^4.0.1",
+    "puppeteer": "^24.8.2"
+  }
+}
