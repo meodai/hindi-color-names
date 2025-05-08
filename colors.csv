@@ -56,7 +56,7 @@ name,hex,link
 गहरा गुलाबी,#e75480,https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80#%E0%A4%97%E0%A4%B9%E0%A4%B0%E0%A4%BE_%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80
 गहरा गोल्डन रॉड,#b8860b,https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A4%B9%E0%A4%B0%E0%A4%BE_%E0%A4%97%E0%A5%8B%E0%A4%B2%E0%A5%8D%E0%A4%A1%E0%A4%A8_%E0%A4%B0%E0%A5%89%E0%A4%A1
 गहरा जामुनी लाल रंग-बरगंडी,#900020,https://hi.wikipedia.org/wiki/%E0%A4%AC%E0%A4%B0%E0%A4%97%E0%A4%82%E0%A4%A1%E0%A5%80_(%E0%A4%B0%E0%A4%82%E0%A4%97)
-गहरा टैन / पीला भूरा,#918151,https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A4%B9%E0%A4%B0%E0%A4%BE_%E0%A4%9F%E0%A5%88%E0%A4%A8_/_%E0%A4%AA%E0%A5%80%E0%A4%B2%E0%A4%BE_%E0%A4%AD%E0%A5%82%E0%A4%B0%E0%A4%BE
+गहरा टैन,#918151,https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A4%B9%E0%A4%B0%E0%A4%BE_%E0%A4%9F%E0%A5%88%E0%A4%A8_/_%E0%A4%AA%E0%A5%80%E0%A4%B2%E0%A4%BE_%E0%A4%AD%E0%A5%82%E0%A4%B0%E0%A4%BE
 गहरा नीला,#0000c8,https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A4%B9%E0%A4%B0%E0%A4%BE_%E0%A4%A8%E0%A5%80%E0%A4%B2%E0%A4%BE
 गहरा पेस्टल हरा,#03c03c,https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A4%B0%E0%A4%BE
 गहरा फिरोजी,#116062,https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A4%B9%E0%A4%B0%E0%A4%BE_%E0%A4%AB%E0%A4%BF%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A5%80
@@ -67,10 +67,10 @@ name,hex,link
 गहरा सेरुलिअन,#08457e,https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A5%87%E0%A4%B0%E0%A5%81%E0%A4%B2%E0%A4%BF%E0%A4%AF%E0%A4%A8
 गहरा स्लेटी,#2f4f4f,https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%B2%E0%A5%87%E0%A4%9F%E0%A5%80#%E0%A4%B5%E0%A5%87%E0%A4%AC_%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A3
 गहरा हरा,#013220,https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A4%B0%E0%A4%BE
+गुलनार गुलाबी,#ffa6c9,https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80#%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%A8%E0%A4%BE%E0%A4%B0_%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80
 गुलाब,#ff007f,https://hi.wikipedia.org/wiki/%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A4%BC_(%E0%A4%B0%E0%A4%82%E0%A4%97)
-गुलाबी,#ffc0cb,https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80
+गुलाबी,#fea7ca,https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80#%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%A8%E0%A4%BE%E0%A4%B0_%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80
 गुलाबी - नारंगी,#ff9966,https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80_-_%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A4%82%E0%A4%97%E0%A5%80
-गुलाबी#गुलनार गुलाबी,#ffa6c9,https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80#%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%A8%E0%A4%BE%E0%A4%B0_%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80
 गेरुआ,#cc7722,https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%87%E0%A4%B0%E0%A5%81%E0%A4%86
 गेंहुआ,#f5deb3,https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%87%E0%A4%82%E0%A4%B9%E0%A5%81%E0%A4%86_(%E0%A4%B0%E0%A4%82%E0%A4%97)
 गैम्बोज,#e49b0f,https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%88%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A5%8B%E0%A4%9C
@@ -80,6 +80,7 @@ name,hex,link
 चार्ट्रियूज पीला,#dfff00,https://hi.wikipedia.org/wiki/%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A5%82%E0%A4%9C_%E0%A4%AA%E0%A5%80%E0%A4%B2%E0%A4%BE
 चीड़ हरा,#01796f,https://hi.wikipedia.org/wiki/%E0%A4%9A%E0%A5%80%E0%A4%A1%E0%A4%BC_%E0%A4%B9%E0%A4%B0%E0%A4%BE
 चॉकलेट,#7b3f00,https://hi.wikipedia.org/wiki/%E0%A4%9A%E0%A5%89%E0%A4%95%E0%A4%B2%E0%A5%87%E0%A4%9F_(%E0%A4%B0%E0%A4%82%E0%A4%97)
+छलावरण हरा,#78866b,https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A4%B0%E0%A4%BE#%E0%A4%9B%E0%A4%B2%E0%A4%BE%E0%A4%B5%E0%A4%B0%E0%A4%A3_%E0%A4%B9%E0%A4%B0%E0%A4%BE
 जंबुमणि या कटैला,#9966cc,https://hi.wikipedia.org/wiki/%E0%A4%9C%E0%A4%82%E0%A4%AC%E0%A5%81%E0%A4%AE%E0%A4%A3%E0%A4%BF_(%E0%A4%B0%E0%A4%82%E0%A4%97)
 जि़न्वाल्डाइट,#ebc2af,https://hi.wikipedia.org/wiki/%E0%A4%9C%E0%A4%BF%E0%A4%BC%E0%A4%A8%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B2%E0%A5%8D%E0%A4%A1%E0%A4%BE%E0%A4%87%E0%A4%9F_(%E0%A4%B0%E0%A4%82%E0%A4%97)
 जैतून हरा,#808000,https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A4%B0%E0%A4%BE#%E0%A4%9C%E0%A5%88%E0%A4%A4%E0%A5%82%E0%A4%A8
@@ -122,6 +123,7 @@ name,hex,link
 पावडर ब्लू,#003399,https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%B2%E0%A4%BE#%E0%A4%AA%E0%A4%BE%E0%A4%B5%E0%A4%A1%E0%A4%B0_%E0%A4%A8%E0%A5%80%E0%A4%B2%E0%A4%BE
 पीतल,#b5a642,https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A5%80%E0%A4%A4%E0%A4%B2_(%E0%A4%B0%E0%A4%82%E0%A4%97)
 पीला,#ffff00,https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A5%80%E0%A4%B2%E0%A4%BE
+पीला भूरा,#928252,https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A4%B9%E0%A4%B0%E0%A4%BE_%E0%A4%9F%E0%A5%88%E0%A4%A8_/_%E0%A4%AA%E0%A5%80%E0%A4%B2%E0%A4%BE_%E0%A4%AD%E0%A5%82%E0%A4%B0%E0%A4%BE
 पुरातन गुलाबी,#c08081,https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80#%E0%A4%93%E0%A4%B2%E0%A5%8D%E0%A4%A1_%E0%A4%B0%E0%A5%8B%E0%A4%9C
 पुरातन लॅवेंडर,#796878,https://hi.wikipedia.org/wiki/%E0%A4%B2%E0%A5%85%E0%A4%B5%E0%A5%87%E0%A4%82%E0%A4%A1%E0%A4%B0_(%E0%A4%B0%E0%A4%82%E0%A4%97)#%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A4%E0%A4%A8_%E0%A4%B2%E0%A5%85%E0%A4%B5%E0%A5%87%E0%A4%82%E0%A4%A1%E0%A4%B0
 पुरातन लेस,#fdf5e6,https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A4%E0%A4%A8_%E0%A4%B2%E0%A5%87%E0%A4%B8
@@ -240,9 +242,7 @@ name,hex,link
 स्कूल बस पीला,#ffd800,https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A5%80%E0%A4%B2%E0%A4%BE#%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%82%E0%A4%B2_%E0%A4%AC%E0%A4%B8_%E0%A4%AA%E0%A5%80%E0%A4%B2%E0%A4%BE
 स्लेट्आ ग्रे,#708090,https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%B2%E0%A5%87%E0%A4%9F%E0%A5%80
 स्वर्णाम्र,#ec5800,https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A3%E0%A4%BE%E0%A4%AE%E0%A5%8D%E0%A4%B0_(%E0%A4%B0%E0%A4%82%E0%A4%97)
-हरा,#01fe01,https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A4%B0%E0%A4%BE
-हरा HTML/CSS,#018101,https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A4%B0%E0%A4%BE#HTML/CSS_%E0%A4%AE%E0%A5%87
-हरा#छलावरण हरा,#78866b,https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A4%B0%E0%A4%BE#%E0%A4%9B%E0%A4%B2%E0%A4%BE%E0%A4%B5%E0%A4%B0%E0%A4%A3_%E0%A4%B9%E0%A4%B0%E0%A4%BE
+हरा,#79876c,https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A4%B0%E0%A4%BE#%E0%A4%9B%E0%A4%B2%E0%A4%BE%E0%A4%B5%E0%A4%B0%E0%A4%A3_%E0%A4%B9%E0%A4%B0%E0%A4%BE
 हरिताश्म,#00a86b,https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A4%B0%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%B6%E0%A5%8D%E0%A4%AE_(%E0%A4%B0%E0%A4%82%E0%A4%97)
 हलका खाकी,#f0e68c,https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A4%B2%E0%A4%95%E0%A4%BE_%E0%A4%96%E0%A4%BE%E0%A4%95%E0%A5%80
 हलका बैंगनी,#990066,https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A4%B2%E0%A4%95%E0%A4%BE_%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%97%E0%A4%A8%E0%A5%80

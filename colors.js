@@ -286,7 +286,7 @@ export const colorNames = [
     "link": "https://hi.wikipedia.org/wiki/%E0%A4%AC%E0%A4%B0%E0%A4%97%E0%A4%82%E0%A4%A1%E0%A5%80_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
   },
   {
-    "name": "गहरा टैन / पीला भूरा",
+    "name": "गहरा टैन",
     "hex": "#918151",
     "link": "https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A4%B9%E0%A4%B0%E0%A4%BE_%E0%A4%9F%E0%A5%88%E0%A4%A8_/_%E0%A4%AA%E0%A5%80%E0%A4%B2%E0%A4%BE_%E0%A4%AD%E0%A5%82%E0%A4%B0%E0%A4%BE"
   },
@@ -341,24 +341,24 @@ export const colorNames = [
     "link": "https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A4%B0%E0%A4%BE"
   },
   {
+    "name": "गुलनार गुलाबी",
+    "hex": "#ffa6c9",
+    "link": "https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80#%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%A8%E0%A4%BE%E0%A4%B0_%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80"
+  },
+  {
     "name": "गुलाब",
     "hex": "#ff007f",
     "link": "https://hi.wikipedia.org/wiki/%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A4%BC_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
   },
   {
     "name": "गुलाबी",
-    "hex": "#ffc0cb",
-    "link": "https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80"
+    "hex": "#fea7ca",
+    "link": "https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80#%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%A8%E0%A4%BE%E0%A4%B0_%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80"
   },
   {
     "name": "गुलाबी - नारंगी",
     "hex": "#ff9966",
     "link": "https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80_-_%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A4%82%E0%A4%97%E0%A5%80"
-  },
-  {
-    "name": "गुलाबी#गुलनार गुलाबी",
-    "hex": "#ffa6c9",
-    "link": "https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80#%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%A8%E0%A4%BE%E0%A4%B0_%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80"
   },
   {
     "name": "गेरुआ",
@@ -404,6 +404,11 @@ export const colorNames = [
     "name": "चॉकलेट",
     "hex": "#7b3f00",
     "link": "https://hi.wikipedia.org/wiki/%E0%A4%9A%E0%A5%89%E0%A4%95%E0%A4%B2%E0%A5%87%E0%A4%9F_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+  },
+  {
+    "name": "छलावरण हरा",
+    "hex": "#78866b",
+    "link": "https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A4%B0%E0%A4%BE#%E0%A4%9B%E0%A4%B2%E0%A4%BE%E0%A4%B5%E0%A4%B0%E0%A4%A3_%E0%A4%B9%E0%A4%B0%E0%A4%BE"
   },
   {
     "name": "जंबुमणि या कटैला",
@@ -614,6 +619,11 @@ export const colorNames = [
     "name": "पीला",
     "hex": "#ffff00",
     "link": "https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A5%80%E0%A4%B2%E0%A4%BE"
+  },
+  {
+    "name": "पीला भूरा",
+    "hex": "#928252",
+    "link": "https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A4%B9%E0%A4%B0%E0%A4%BE_%E0%A4%9F%E0%A5%88%E0%A4%A8_/_%E0%A4%AA%E0%A5%80%E0%A4%B2%E0%A4%BE_%E0%A4%AD%E0%A5%82%E0%A4%B0%E0%A4%BE"
   },
   {
     "name": "पुरातन गुलाबी",
@@ -1207,17 +1217,7 @@ export const colorNames = [
   },
   {
     "name": "हरा",
-    "hex": "#01fe01",
-    "link": "https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A4%B0%E0%A4%BE"
-  },
-  {
-    "name": "हरा HTML/CSS",
-    "hex": "#018101",
-    "link": "https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A4%B0%E0%A4%BE#HTML/CSS_%E0%A4%AE%E0%A5%87"
-  },
-  {
-    "name": "हरा#छलावरण हरा",
-    "hex": "#78866b",
+    "hex": "#79876c",
     "link": "https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A4%B0%E0%A4%BE#%E0%A4%9B%E0%A4%B2%E0%A4%BE%E0%A4%B5%E0%A4%B0%E0%A4%A3_%E0%A4%B9%E0%A4%B0%E0%A4%BE"
   },
   {

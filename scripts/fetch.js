@@ -99,11 +99,29 @@ userColors.forEach(color => {
   await browser.close();
 
   // data sanitization
-  
+  colors.forEach(c => {
+    // remove the string "HTML/CSS" from color names
+    c.name = c.name.replace(/HTML\/CSS/, "").trim();
+    
+    // if a name contains a # or / split it and create a new entry with the same hex
+    if (c.name.includes("#") || c.name.includes("/")) {
+      const names = c.name.split(/#|\//);
+      names.forEach((name, i) => {
+        if (i === 0) return;
+        colors.push({
+          name: name.trim(),
+          hex: c.hex,
+          link: c.link,
+        });
+      });
+      c.name = names[0].trim();
+    }
+  });
 
   colors.forEach(c => {
     // remove parentheses and its contents from name
-    c.name = c.name.replace(/\(.*\)/, '').trim();
+    c.name = c.name.replace(/\(.*\)/, "").trim();
+
     c.hex = formatHex(c.hex);
     if (!c.hex) {
       console.warn(`invalid hex: ${c.name} (${c.link})`);
