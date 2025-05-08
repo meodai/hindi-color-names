@@ -2,7 +2,7 @@
   "name": "hindi-color-names",
   "version": "1.0.0",
   "description": "A collection of hindi color names",
-  "main": "index.js",
+  "main": "colors.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
