@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="hi">
   <head>
     <meta charset="utf-8">
-    <title>Recueil de Couleur</title>
+    <title>Hindi Color Names</title>
     <style>
       @import url('https://rsms.me/inter/inter.css');
       body * {
