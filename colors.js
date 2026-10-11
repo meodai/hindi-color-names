@@ -13,30 +13,35 @@ export const colorNames = [
   {
     "name": "अर्धरात्रि नीला",
     "hex": "#003366",
-    "link": "meodai"
+    "link": "https://github.com/meodai"
   },
   {
-    "name": "आडू़",
+    "name": "आड़ू",
     "hex": "#ffe5b4",
-    "link": "meodai"
+    "link": "https://github.com/meodai"
   },
   {
-    "name": "आडू़-नारंगी",
+    "name": "आड़ू-नारंगी",
     "hex": "#ffcc99",
     "link": "https://hi.wikipedia.org/wiki/%E0%A4%86%E0%A4%A1%E0%A5%82%E0%A4%BC_(%E0%A4%B0%E0%A4%82%E0%A4%97)#%E0%A4%86%E0%A4%A1%E0%A5%82%E0%A4%BC-%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A4%82%E0%A4%97%E0%A5%80"
   },
   {
-    "name": "आडू़-पीला",
+    "name": "आड़ू-पीला",
     "hex": "#fadfad",
     "link": "https://hi.wikipedia.org/wiki/%E0%A4%86%E0%A4%A1%E0%A5%82%E0%A4%BC_(%E0%A4%B0%E0%A4%82%E0%A4%97)#%E0%A4%86%E0%A4%A1%E0%A5%82%E0%A4%BC-%E0%A4%AA%E0%A5%80%E0%A4%B2%E0%A4%BE"
   },
   {
     "name": "आसमानी",
     "hex": "#87ceeb",
-    "link": "meodai"
+    "link": "https://github.com/meodai"
   },
   {
     "name": "इंडिगो",
+    "hex": "#6600ff",
+    "link": "https://hi.wikipedia.org/wiki/%E0%A4%87%E0%A4%82%E0%A4%A1%E0%A4%BF%E0%A4%97%E0%A5%8B"
+  },
+  {
+    "name": "इंडिगो (वेब)",
     "hex": "#4b0082",
     "link": "https://hi.wikipedia.org/wiki/%E0%A4%87%E0%A4%82%E0%A4%A1%E0%A4%BF%E0%A4%97%E0%A5%8B#%E0%A4%87%E0%A4%82%E0%A4%A1%E0%A4%BF%E0%A4%97%E0%A5%8B_(%E0%A4%B5%E0%A5%87%E0%A4%AC)"
   },
@@ -56,7 +61,7 @@ export const colorNames = [
     "link": "https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A4%B0%E0%A4%BE_%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A3_%E0%A4%95%E0%A5%87_%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%A8#%E0%A4%87%E0%A4%B8%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%AE%E0%A4%BF%E0%A4%95_%E0%A4%B9%E0%A4%B0%E0%A4%BE"
   },
   {
-    "name": "उज्ज्वल फिरोजी़",
+    "name": "उज्ज्वल फिरोज़ी",
     "hex": "#08e8de",
     "link": "https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8_(%E0%A4%B0%E0%A4%82%E0%A4%97)#%E0%A4%AB%E0%A5%80%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A5%80"
   },
@@ -96,7 +101,7 @@ export const colorNames = [
     "link": "https://hi.wikipedia.org/wiki/%E0%A4%8F%E0%A4%B2%E0%A4%BF%E0%A4%B8_%E0%A4%A8%E0%A5%80%E0%A4%B2%E0%A4%BE"
   },
   {
-    "name": "एलीजा़रिन",
+    "name": "एलीज़ारिन",
     "hex": "#e32636",
     "link": "https://hi.wikipedia.org/wiki/%E0%A4%8F%E0%A4%B2%E0%A5%80%E0%A4%9C%E0%A4%BE%E0%A4%BC%E0%A4%B0%E0%A4%BF%E0%A4%A8"
   },
@@ -161,6 +166,11 @@ export const colorNames = [
     "link": "https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A4%82%E0%A4%97%E0%A5%80_(%E0%A4%B0%E0%A4%82%E0%A4%97)#%E0%A4%95%E0%A4%B9%E0%A4%B0%E0%A5%81%E0%A4%B5%E0%A4%BE"
   },
   {
+    "name": "काँस्य",
+    "hex": "#cd7f32",
+    "link": "https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A4%BE%E0%A4%81%E0%A4%B8%E0%A5%8D%E0%A4%AF"
+  },
+  {
     "name": "कार्डिनल",
     "hex": "#c41e3a",
     "link": "https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1%E0%A4%BF%E0%A4%A8%E0%A4%B2_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
@@ -174,11 +184,6 @@ export const colorNames = [
     "name": "काला",
     "hex": "#000000",
     "link": "https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A4%BE%E0%A4%B2%E0%A4%BE"
-  },
-  {
-    "name": "काँस्य",
-    "hex": "#cd7f32",
-    "link": "https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A4%BE%E0%A4%81%E0%A4%B8%E0%A5%8D%E0%A4%AF"
   },
   {
     "name": "किरमिज",
@@ -261,7 +266,7 @@ export const colorNames = [
     "link": "https://hi.wikipedia.org/wiki/%E0%A4%B2%E0%A4%BE%E0%A4%B2#%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%B2%E0%A4%BE%E0%A4%B2"
   },
   {
-    "name": "गहरा आडू़",
+    "name": "गहरा आड़ू",
     "hex": "#ffcba4",
     "link": "https://hi.wikipedia.org/wiki/%E0%A4%86%E0%A4%A1%E0%A5%82%E0%A4%BC_(%E0%A4%B0%E0%A4%82%E0%A4%97)#%E0%A4%97%E0%A4%B9%E0%A4%B0%E0%A4%BE_%E0%A4%86%E0%A4%A1%E0%A5%82%E0%A4%BC"
   },
@@ -361,14 +366,14 @@ export const colorNames = [
     "link": "https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80_-_%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A4%82%E0%A4%97%E0%A5%80"
   },
   {
-    "name": "गेरुआ",
-    "hex": "#cc7722",
-    "link": "https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%87%E0%A4%B0%E0%A5%81%E0%A4%86"
-  },
-  {
     "name": "गेंहुआ",
     "hex": "#f5deb3",
     "link": "https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%87%E0%A4%82%E0%A4%B9%E0%A5%81%E0%A4%86_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+  },
+  {
+    "name": "गेरुआ",
+    "hex": "#cc7722",
+    "link": "https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%87%E0%A4%B0%E0%A5%81%E0%A4%86"
   },
   {
     "name": "गैम्बोज",
@@ -416,7 +421,7 @@ export const colorNames = [
     "link": "https://hi.wikipedia.org/wiki/%E0%A4%9C%E0%A4%82%E0%A4%AC%E0%A5%81%E0%A4%AE%E0%A4%A3%E0%A4%BF_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
   },
   {
-    "name": "जि़न्वाल्डाइट",
+    "name": "ज़िन्वाल्डाइट",
     "hex": "#ebc2af",
     "link": "https://hi.wikipedia.org/wiki/%E0%A4%9C%E0%A4%BF%E0%A4%BC%E0%A4%A8%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B2%E0%A5%8D%E0%A4%A1%E0%A4%BE%E0%A4%87%E0%A4%9F_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
   },
@@ -442,6 +447,11 @@ export const colorNames = [
   },
   {
     "name": "टी रोज़",
+    "hex": "#f4c2c2",
+    "link": "https://hi.wikipedia.org/wiki/%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A4%BC_(%E0%A4%B0%E0%A4%82%E0%A4%97)#%E0%A4%9F%E0%A5%80_%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A4%BC"
+  },
+  {
+    "name": "टी रोज़ (नारंगी)",
     "hex": "#f88379",
     "link": "https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A4%82%E0%A4%97%E0%A5%80_(%E0%A4%B0%E0%A4%82%E0%A4%97)#%E0%A4%AE%E0%A5%82%E0%A4%81%E0%A4%97%E0%A4%BE_%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80"
   },
@@ -517,8 +527,18 @@ export const colorNames = [
   },
   {
     "name": "नारंगी",
+    "hex": "#ed9121",
+    "link": "https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A4%82%E0%A4%97%E0%A5%80_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+  },
+  {
+    "name": "नारंगी (छिलका)",
     "hex": "#ffa000",
     "link": "https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A4%82%E0%A4%97%E0%A5%80_(%E0%A4%9B%E0%A4%BF%E0%A4%B2%E0%A4%95%E0%A4%BE)_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+  },
+  {
+    "name": "नारंगी (वेब)",
+    "hex": "#ffa500",
+    "link": "https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A4%82%E0%A4%97%E0%A5%80_(%E0%A4%B5%E0%A5%87%E0%A4%AC)"
   },
   {
     "name": "नाशपाती",
@@ -526,14 +546,14 @@ export const colorNames = [
     "link": "https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%B6%E0%A4%AA%E0%A4%BE%E0%A4%A4%E0%A5%80_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
   },
   {
+    "name": "नींबू (लाइम)",
+    "hex": "#ccff00",
+    "link": "https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%82%E0%A4%AC%E0%A5%82_(%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%AE)_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+  },
+  {
     "name": "नीबू",
     "hex": "#fde910",
     "link": "https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%AC%E0%A5%82_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
-  },
-  {
-    "name": "नींबू",
-    "hex": "#ccff00",
-    "link": "https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%82%E0%A4%AC%E0%A5%82_(%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%AE)_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
   },
   {
     "name": "नीबू शीफॉन",
@@ -591,9 +611,14 @@ export const colorNames = [
     "link": "https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%B2%E0%A5%80%E0%A4%AF"
   },
   {
-    "name": "पर्पल",
+    "name": "पर्पल (HTML/CSS)",
     "hex": "#800080",
     "link": "https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A4%B2#%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A4%B2(HTML/CSS)"
+  },
+  {
+    "name": "पर्पल (X11)",
+    "hex": "#a020f0",
+    "link": "https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A4%B2#%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A4%B2(X11)"
   },
   {
     "name": "पर्पल टाउप",
@@ -751,7 +776,7 @@ export const colorNames = [
     "link": "https://hi.wikipedia.org/wiki/%E0%A4%B2%E0%A4%BE%E0%A4%B2#%E0%A4%AB%E0%A5%80%E0%A4%95%E0%A4%BE_%E0%A4%B2%E0%A4%BE%E0%A4%B2_%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%97%E0%A4%A8%E0%A5%80_(%E0%A4%B5%E0%A5%87%E0%A4%AC_%E0%A4%B0%E0%A4%82%E0%A4%97)"
   },
   {
-    "name": "फीरोजी़",
+    "name": "फीरोज़ी",
     "hex": "#30d5c8",
     "link": "https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
   },
@@ -832,6 +857,11 @@ export const colorNames = [
   },
   {
     "name": "भूरा",
+    "hex": "#993300",
+    "link": "https://hi.wikipedia.org/wiki/%E0%A4%AD%E0%A5%82%E0%A4%B0%E0%A4%BE"
+  },
+  {
+    "name": "भूरा (चेस्टनट)",
     "hex": "#cd5c5c",
     "link": "https://hi.wikipedia.org/wiki/%E0%A4%AD%E0%A5%82%E0%A4%B0%E0%A4%BE_(%E0%A4%9A%E0%A5%87%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%A8%E0%A4%9F)_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
   },
@@ -946,8 +976,13 @@ export const colorNames = [
     "link": "https://hi.wikipedia.org/wiki/%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A4%BC_(%E0%A4%B0%E0%A4%82%E0%A4%97)#%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A4%BC_%E0%A4%9F%E0%A4%BE%E0%A4%89%E0%A4%AA"
   },
   {
-    "name": "लाइम",
+    "name": "लाइम (वर्ण चक्र)",
     "hex": "#bfff00",
+    "link": "https://hi.wikipedia.org/wiki/%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%AE_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+  },
+  {
+    "name": "लाइम (वेब)",
+    "hex": "#00ff00",
     "link": "https://hi.wikipedia.org/wiki/%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%AE_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
   },
   {
@@ -979,6 +1014,11 @@ export const colorNames = [
     "name": "लॅवेंडर",
     "hex": "#b57edc",
     "link": "https://hi.wikipedia.org/wiki/%E0%A4%B2%E0%A5%85%E0%A4%B5%E0%A5%87%E0%A4%82%E0%A4%A1%E0%A4%B0_(%E0%A4%B0%E0%A4%82%E0%A4%97)"
+  },
+  {
+    "name": "लॅवेंडर (वेब)",
+    "hex": "#e6e6fa",
+    "link": "https://hi.wikipedia.org/wiki/%E0%A4%B2%E0%A5%85%E0%A4%B5%E0%A5%87%E0%A4%82%E0%A4%A1%E0%A4%B0_(%E0%A4%B5%E0%A5%87%E0%A4%AC)"
   },
   {
     "name": "लॅवेंडर अरुणिमा",
@@ -1047,7 +1087,7 @@ export const colorNames = [
   },
   {
     "name": "विद्युत हरा",
-    "hex": "#00ff00",
+    "hex": "#01fe01",
     "link": "https://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A5%81%E0%A4%A4_%E0%A4%B9%E0%A4%B0%E0%A4%BE"
   },
   {
@@ -1141,7 +1181,7 @@ export const colorNames = [
     "link": "https://hi.wikipedia.org/wiki/%E0%A4%B2%E0%A4%BE%E0%A4%B2#%E0%A4%B8%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%96"
   },
   {
-    "name": "सुवर्ण",
+    "name": "सुवर्ण (वेब)",
     "hex": "#ffd700",
     "link": "https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A5%80%E0%A4%B2%E0%A4%BE#%E0%A4%B8%E0%A5%81%E0%A4%A8%E0%A4%B9%E0%A4%B0%E0%A4%BE"
   },
@@ -1219,6 +1259,11 @@ export const colorNames = [
     "name": "हरा",
     "hex": "#79876c",
     "link": "https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A4%B0%E0%A4%BE#%E0%A4%9B%E0%A4%B2%E0%A4%BE%E0%A4%B5%E0%A4%B0%E0%A4%A3_%E0%A4%B9%E0%A4%B0%E0%A4%BE"
+  },
+  {
+    "name": "हरा (HTML/CSS)",
+    "hex": "#018101",
+    "link": "https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A4%B0%E0%A4%BE#HTML/CSS_%E0%A4%AE%E0%A5%87"
   },
   {
     "name": "हरिताश्म",
