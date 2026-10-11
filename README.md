@@ -2,6 +2,22 @@
 
 A collection of Hindi color names with their corresponding hex values.
 
+## Usage
+
+```bash
+npm install hindi-color-names
+```
+
+```js
+import { colorNames } from 'hindi-color-names';
+// [{ name: 'अन्तर्राष्ट्रीय क्लेन नीला', hex: '#002fa7', link: '…' }, …]
+
+// or as plain data
+import colors from 'hindi-color-names/colors.json' with { type: 'json' };
+```
+
+Also available: `hindi-color-names/colors.min.json` and `hindi-color-names/colors.csv`.
+
 ## Call for Help
 
 I am the least qualified person to run this repository. 
@@ -10,7 +26,7 @@ If you are a native Hindi speaker and you want to help me, please open an issue 
 
 I am more than happy to transfer the ownership of this repository to you if you are willing to maintain it.
 
-## List of Color Names 🔖 (**252**)
+## List of Color Names 🔖 (**261**)
 
 ![List of all Color Names](colors.svg "List of Hindi color names")
 
@@ -28,17 +44,19 @@ This collection is built by scraping color names from Hindi language sources, pr
 ## Building the List
 
 1. Clone the repository
-2. Install the dependencies: `npm ci`
-3. Run the build script:
-   
+2. Install the dependencies: `npm ci` (Node.js 22 or newer)
+3. Run the build script and the tests:
+
 ```bash
-npm run build
+npm run build   # npm run fetch (scrape) + npm run render (SVG / HTML)
+npm test
 ```
 
 ## Output Files
 
 The build process generates:
 
+- `colors.js` - ES module exporting `colorNames`
 - `colors.json` - Full JSON with color data
 - `colors.min.json` - Minified JSON version
 - `colors.csv` - CSV format with name, hex value, and source link
@@ -50,7 +68,9 @@ The build process generates:
 To add your own color entries, edit the `src/userCreations.csv` file with the format:
 
 ```csv
-name,hex,link
+name,hex,author
 ```
+
+An optional fourth `link` column can point to a source, otherwise the entry links to the author's GitHub profile.
 
 Then run the build script to regenerate all files.
